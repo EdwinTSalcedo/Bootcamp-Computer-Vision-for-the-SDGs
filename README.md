@@ -3,7 +3,7 @@
 <div align="center">
   <a href="#Description"><b>Description</b></a> |
   <a href="#Logistics"><b>Logistics</b></a> |
-  <a href="#Course Materials"><b>Course     Materials</b></a> |
+  <a href="#Course Materials"><b>Content</b></a> |
   <a href="#Cohort"><b>Cohort</b></a> |
   <a href="#Sponsors"><b>Sponsors</b></a> 
 
@@ -39,15 +39,15 @@ Christian Conchari            |  Ana Martinez
 - **LMS (Participants Only):** [Google Classroom](https://classroom.google.com/u/0/c/NDcyMDcxMzg3MTI2)
 - **Final Project Rubrics (Participants Only):** [![](./images/icon_pdf.png)](https://drive.google.com/file/d/1MOssTcuJUsvMTmA2K9AHy3fvxM4wbXTI/view?usp=sharing)
 
-## Course Materials
+## Content
 
 | Lesson | Topic | Slides | Laboratory | Supplementary Material |
-| ----- |  ----- |  ----- |  ----- |  ----- |
-| 01 | Introduction to Computer Vision | [![](./images/icon_pdf.png)]() | [Laboratory 1: Introduction to Colab, OpenCV and Numpy]() | - [CS231n Optimization](https://cs231n.github.io/optimization-1/) <br> - [Dive into DL: Chapter 11](https://d2l.ai/chapter_optimization/index.html) <br> - [Deep Learning: Chapter 8](https://www.deeplearningbook.org/contents/optimization.html) <br> - [Overview of Optimization](https://ruder.io/optimizing-gradient-descent/) |
+| :-: |  ----- |  :-: |  ----- |  ----- |
+| 01 | Introduction to Computer Vision | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/087b9e0474e5497a03c6c8073e79721d24da3ce1/slides/1.%20Introducci%C3%B3n%20a%20la%20Visi%C3%B3n%20Artificial.pdf) | [Laboratory 1: Introduction to Colab, OpenCV and Numpy](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/087b9e0474e5497a03c6c8073e79721d24da3ce1/notebooks/Laboratorio%201_%20Introducci%C3%B3n%20a%20Colab,%20OpenCV%20y%20Numpy.ipynb) | - [CS231n Optimization](https://cs231n.github.io/optimization-1/) <br> - [Dive into DL: Chapter 11](https://d2l.ai/chapter_optimization/index.html) <br> - [Deep Learning: Chapter 8](https://www.deeplearningbook.org/contents/optimization.html) <br> - [Overview of Optimization](https://ruder.io/optimizing-gradient-descent/) |
 
 ## Best Projects
 
-## Cohort Pictures
+## Cohort
 
 - Accepted
 
