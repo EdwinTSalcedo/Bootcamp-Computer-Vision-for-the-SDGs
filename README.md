@@ -42,32 +42,58 @@ Christian Conchari            |  Ana Martinez
 ## Content
 
 | Lesson | Topic | Slides | Laboratory | Supplementary Material |
-| :-: |  ----- |  :-: |  ----- |  ----- |
-| 01 | Introduction to Computer Vision | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/087b9e0474e5497a03c6c8073e79721d24da3ce1/slides/1.%20Introducci%C3%B3n%20a%20la%20Visi%C3%B3n%20Artificial.pdf) | [Laboratory 1: Introduction to Colab, OpenCV and Numpy](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/087b9e0474e5497a03c6c8073e79721d24da3ce1/notebooks/Laboratorio%201_%20Introducci%C3%B3n%20a%20Colab,%20OpenCV%20y%20Numpy.ipynb) | - [CS231n Optimization](https://cs231n.github.io/optimization-1/) <br> - [Dive into DL: Chapter 11](https://d2l.ai/chapter_optimization/index.html) <br> - [Deep Learning: Chapter 8](https://www.deeplearningbook.org/contents/optimization.html) <br> - [Overview of Optimization](https://ruder.io/optimizing-gradient-descent/) |
+| :-: |  ----- |  :-: |  ----- |  ----- | ----- |
+| 01 | Introduction to Computer Vision | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/087b9e0474e5497a03c6c8073e79721d24da3ce1/slides/1.%20Introducci%C3%B3n%20a%20la%20Visi%C3%B3n%20Artificial.pdf) |  |
+| 02 | History of Computer Vision | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/2.%20Historia%20de%20la%20Visi%C3%B3n%20Artificial.pdf) | |
+| 03 | Fundamentals of Image Formation and Processing | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/3.%20Fundamentos%20de%20la%20Formaci%C3%B3n%20y%20Procesamiento%20de%20Imagenes.pdf) | [Laboratory 1: Introduction to Colab, OpenCV and Numpy](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/087b9e0474e5497a03c6c8073e79721d24da3ce1/notebooks/Laboratorio%201_%20Introducci%C3%B3n%20a%20Colab,%20OpenCV%20y%20Numpy.ipynb) | 
+| 04 | Point Processing | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/4.%20Procesamiento%20de%20Puntos.pdf) | [Laboratory 2: Point Processing](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/notebooks/Laboratorio%202_%20Procesamiento%20de%20Puntos.ipynb) | ▪ [Digital Image Processing - Book by Rafael C. Gonzales and Richard Woods ](https://www.tensorflow.org/tutorials) |
+| 05 | Image Filtering | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/5%20Filtrado%20de%20Im%C3%A1genes.pdf) | [Laboratory 3: Edge Detection](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/notebooks/Laboratorio%203_%20Detecci%C3%B3n%20de%20Bordes.ipynb) <br> [Laboratory 4: Canny Edge Detector](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/notebooks/Laboratorio%204_%20Detector%20de%20Bordes%20Canny.ipynb) | 
+| 06 | Image Transforms | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/6.%20Transformadas%20de%20Im%C3%A1genes.pdf) |  [Laboratory 5: Image Transforms](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/notebooks/Laboratorio%205_%20Transformadas%20de%20la%20Imagen.ipynb) | 
+| 07 | Morphological Algorithms | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/7.%20Algoritmos%20Morfol%C3%B3gicos.pdf) |  [Laboratory 6: Morphological Algorithms](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/notebooks/Laboratorio%206_%20Operadores%20y%20Algoritmos%20Morfol%C3%B3gicos.ipynb) | 
+| 08 | Image Segmentation | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/8.%20Segmentaci%C3%B3n%20de%20Imagenes.pdf) |  [Laboratory 7: Image Segmentation](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/notebooks/Laboratorio%207_%20Segmentaci%C3%B3n%20de%20Im%C3%A1genes.ipynb) | 
+| 09 | Introduction to Motion | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/9.%20Introducci%C3%B3n%20al%20Procesamiento%20de%20Videos.pdf) || [Video Processing Examples](https://github.com/EdwinTSalcedo/video-processing) | 
+| SDGs | 17 Sustainable Development Goals | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/ODS%20primera%20parte.pdf) [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/ODS%20segunda%20parte.pdf) |  |  |
+| 10 | Data Processing for Computer Vision | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/10.%20Procesamiento%20de%20Conjuntos%20de%20Im%C3%A1genes%20para%20Visi%C3%B3n%20Artificial.pdf) | [Laboratory 8: Introduction to Pandas](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/notebooks/Laboratorio%208_%20Introducci%C3%B3n%20a%20Pandas.ipynb) | ▪ [Pandas from Zero - Course by Juan Barrios](https://www.juanbarrios.com/curso-de-pandas-completo-desde-cero/)  |
+| 11 | Introduction to Machine Learning | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/11.%20Introducci%C3%B3n%20al%20ML%20Supervisado%20y%20No%20Supervisado.pdf) | [Laboratory 9: Introduction to TensorFlow](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/notebooks/Laboratorio%209_%20Introducci%C3%B3n%20a%20TensorFlow.ipynb)  | ▪ [TensorFlow Tutorials](https://www.tensorflow.org/tutorials) |
+| 12 | Neural Networks for Computer Vision | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/12.%20Redes%20Neuronales%20para%20Visi%C3%B3n%20Artificial.pdf) | [Laboratory 10: Neural Networks for Computer Vision](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/notebooks/Laboratorio%2010_%20Redes%20Neuronales%20para%20Visi%C3%B3n%20Artificial.ipynb) | ▪ [TensorFlow Tutorial: Basic Classification with Keras](https://www.tensorflow.org/tutorials/keras/classification) |
+| 13 | Training Optimisation | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/13.%20Optimizaci%C3%B3n%20del%20Entrenamiento.pdf) |  |  ▪ [TensorFlow Tutorial: Overfit and Underfit](https://www.tensorflow.org/tutorials/keras/overfit_and_underfit)  |
+| 14 | Convolutional Neural Network | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/14.%20Redes%20Neuronales%20Convolucionales.pdf) | [Laboratory 11: Convolutional Neural Networks](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/notebooks/Laboratorio%2011_%20Redes%20Neuronales%20Convolucionales.ipynb) | ▪ [TensorFlow Tutorial: CNNs](https://www.tensorflow.org/tutorials/images/cnn)  |
+| 15 | Transfer Learning | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/15.%20Transferencia%20del%20Aprendizaje.pdf) |  | ▪ [TensorFlow Tutorial: Transfer Learning and Fine Tunning](https://www.tensorflow.org/tutorials/images/transfer_learning) |
+| 16 | Object Detection | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/16.%20Detecci%C3%B3n%20de%20Objetos.pdf) | [Laboratory 12: Object Detection with TF Hub](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/notebooks/Laboratorio%2012_%20Detecci%C3%B3n%20de%20Objetos.ipynb) | ▪ [TensorFlow Tutorial: Object Detection](https://www.tensorflow.org/hub/tutorials/object_detection) | 
+| 17 | Semantic Segmentation | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/17.%20Segmentaci%C3%B3n%20Sem%C3%A1ntica.pdf) |  | ▪ [TensorFlow Tutorial: Image Segmentation](https://www.coursera.org/projects/deploy-models-tensorflow-serving-flask) | 
+| 18 | Instance Segmentation | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/18.%20Segmentaci%C3%B3n%20de%20Instancias.pdf) |  | 
+| 19 | Model Deployment | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/19.%20Despliegue%20de%20Modelos%20de%20Visi%C3%B3n%20Artificial.pdf) |  | ▪ [Deploy Models with TensorFlow Serving and Flask on Coursera](https://www.coursera.org/projects/deploy-models-tensorflow-serving-flask) <br> ▪ [Deploy Models Using TensorFlow Serving - Example](https://colab.research.google.com/github/EricEsajian/neural_network_models/blob/master/Deploy_Models_Using_TensorFlow_Serving.ipynb)
 
-## Best Projects
 
 ## Cohort
 
-- Accepted
+- **Accepted:** 60 participants
 
-- Finalists
+
+- **Finalists:** 40 participants from 6 cities in Bolivia
+<img src="./images/finalists.png" alt="alt text" width="400"/>
+
+## Best Projects
+- TBD
 
 ## Sponsors
 
+Google AI | UCB | IMT
+:-------------------------:|:-------------------------: | :-------------------------:
+[![](./images/googleai.png)](https://ai.google/)  |  [![](./images/ucb.png)](https://www.ucb.edu.bo/) | [![](./images/imt.png)](https://www.imt.ucb.edu.bo/)
+
 ## Aknowledgements
 
-
+We thank Natalia Guerreros, founder of Desafio ODS, for the two-sessions on the progress and challenges to accomplish Sustainable Development Goals in Bolivia 🇧🇴.
 
 ## Copyright
 
 The MIT License
 
-Copyright (c) 2020 HackCities: Urban Innovation
+Copyright ©  2022 HackCities: Urban Innovation
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, prior a proper referencing, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
