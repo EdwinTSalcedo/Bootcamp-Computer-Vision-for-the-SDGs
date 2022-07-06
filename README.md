@@ -3,7 +3,7 @@
 <div align="center">
   <a href="#Description"><b>Description</b></a> |
   <a href="#Logistics"><b>Logistics</b></a> |
-  <a href="#Course Materials"><b>Content</b></a> |
+  <a href="#Content"><b>Content</b></a> |
   <a href="#Cohort"><b>Cohort</b></a> |
   <a href="#Sponsors"><b>Sponsors</b></a> 
 
@@ -19,13 +19,13 @@ The Sustainable Development Goals (SDGs) are a set of goals posed by the United 
 ## Lecturer
 | Edwin Salcedo           | 
 |:-------------------------:|
-|[![](./images/edwinsalcedo_2.png)](https://www.linkedin.com/in/edwinsalcedo)|
+|[![](./images/edwinsalcedo.png)](https://www.linkedin.com/in/edwinsalcedo)|
 
 ## Teaching Assistants
 
 Christian Conchari            |  Ana Martinez
 :-------------------------:|:-------------------------:
-[![](./images/christianconchari_2.png)](https://www.linkedin.com/in/christian-ricardo-conchari-cabrera-77b688144)  |  [![](./images/anamartinez_2.png)](https://www.linkedin.com/in/anaraquelmartinezcarballo)
+[![](./images/christianconchari.png)](https://www.linkedin.com/in/christian-ricardo-conchari-cabrera-77b688144)  |  [![](./images/anamartinez.png)](https://www.linkedin.com/in/anaraquelmartinezcarballo)
 
 ## Logistics
 - **Duration:** 3 months
