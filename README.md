@@ -42,7 +42,7 @@ Christian Conchari            |  Ana Martinez
 ## Content
 
 | Lesson | Topic | Slides | Laboratory | Supplementary Material |
-| :-: |  ----- |  :-: |  ----- |  ----- | ----- |
+| :-: |  ----- |  :-: |  ----- |  ----- | 
 | 01 | Introduction to Computer Vision | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/087b9e0474e5497a03c6c8073e79721d24da3ce1/slides/1.%20Introducci%C3%B3n%20a%20la%20Visi%C3%B3n%20Artificial.pdf) |  |
 | 02 | History of Computer Vision | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/2.%20Historia%20de%20la%20Visi%C3%B3n%20Artificial.pdf) | |
 | 03 | Fundamentals of Image Formation and Processing | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/3.%20Fundamentos%20de%20la%20Formaci%C3%B3n%20y%20Procesamiento%20de%20Imagenes.pdf) | [Laboratory 1: Introduction to Colab, OpenCV and Numpy](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/087b9e0474e5497a03c6c8073e79721d24da3ce1/notebooks/Laboratorio%201_%20Introducci%C3%B3n%20a%20Colab,%20OpenCV%20y%20Numpy.ipynb) | 
@@ -62,13 +62,11 @@ Christian Conchari            |  Ana Martinez
 | 16 | Object Detection | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/16.%20Detecci%C3%B3n%20de%20Objetos.pdf) | [Laboratory 12: Object Detection with TF Hub](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/notebooks/Laboratorio%2012_%20Detecci%C3%B3n%20de%20Objetos.ipynb) | ▪ [TensorFlow Tutorial: Object Detection](https://www.tensorflow.org/hub/tutorials/object_detection) | 
 | 17 | Semantic Segmentation | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/17.%20Segmentaci%C3%B3n%20Sem%C3%A1ntica.pdf) |  | ▪ [TensorFlow Tutorial: Image Segmentation](https://www.coursera.org/projects/deploy-models-tensorflow-serving-flask) | 
 | 18 | Instance Segmentation | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/18.%20Segmentaci%C3%B3n%20de%20Instancias.pdf) |  | 
-| 19 | Model Deployment | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/19.%20Despliegue%20de%20Modelos%20de%20Visi%C3%B3n%20Artificial.pdf) |  | ▪ [Deploy Models with TensorFlow Serving and Flask on Coursera](https://www.coursera.org/projects/deploy-models-tensorflow-serving-flask) <br> ▪ [Deploy Models Using TensorFlow Serving - Example](https://colab.research.google.com/github/EricEsajian/neural_network_models/blob/master/Deploy_Models_Using_TensorFlow_Serving.ipynb)
-
+| 19 | Model Deployment | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/19.%20Despliegue%20de%20Modelos%20de%20Visi%C3%B3n%20Artificial.pdf) |  | ▪ [Deploy Models with TensorFlow Serving and Flask on Coursera](https://www.coursera.org/projects/deploy-models-tensorflow-serving-flask) <br> ▪ [Deploy Models Using TensorFlow Serving - Example](https://colab.research.google.com/github/EricEsajian/neural_network_models/blob/master/Deploy_Models_Using_TensorFlow_Serving.ipynb) |
 
 ## Cohort
 
 - **Accepted:** 60 participants
-
 
 - **Finalists:** 40 participants from 6 cities in Bolivia
 <img src="./images/finalists.png" alt="alt text" width="400"/>
