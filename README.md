@@ -9,7 +9,6 @@
 
 </div>
 
-
 ## Description
 
 Computer vision is a scientific discipline that has recently made good progress in various sub-areas (e.g. object segmentation, video classification, disease detection), achieving a level of performance that was unexpected just a few years ago. With the advent of new AI techniques, computer vision has opened up possibilities in many real-world domains, including transportation (autonomous cars, drones), and smart cities (disaster monitoring, surveillance systems). Although these applications provide massive meaning and value to this technology, their implementation and teaching in Bolivia are still limited. In contrast, the expansion of the Internet and mobile devices (computer devices connected to the network) in Bolivia offers a unique opportunity for technology communities, made up of software developers, engineers, or students, to become more involved in this field.
@@ -46,7 +45,7 @@ Christian Conchari            |  Ana Martinez
 | 01 | Introduction to Computer Vision | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/087b9e0474e5497a03c6c8073e79721d24da3ce1/slides/1.%20Introducci%C3%B3n%20a%20la%20Visi%C3%B3n%20Artificial.pdf) |  |
 | 02 | History of Computer Vision | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/2.%20Historia%20de%20la%20Visi%C3%B3n%20Artificial.pdf) | |
 | 03 | Fundamentals of Image Formation and Processing | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/3.%20Fundamentos%20de%20la%20Formaci%C3%B3n%20y%20Procesamiento%20de%20Imagenes.pdf) | [Laboratory 1: Introduction to Colab, OpenCV and Numpy](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/087b9e0474e5497a03c6c8073e79721d24da3ce1/notebooks/Laboratorio%201_%20Introducci%C3%B3n%20a%20Colab,%20OpenCV%20y%20Numpy.ipynb) | 
-| 04 | Point Processing | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/4.%20Procesamiento%20de%20Puntos.pdf) | [Laboratory 2: Point Processing](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/notebooks/Laboratorio%202_%20Procesamiento%20de%20Puntos.ipynb) | ▪ [Digital Image Processing - Book by Rafael C. Gonzales and Richard Woods ](https://www.tensorflow.org/tutorials) |
+| 04 | Point Processing | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/4.%20Procesamiento%20de%20Puntos.pdf) | [Laboratory 2: Point Processing](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/notebooks/Laboratorio%202_%20Procesamiento%20de%20Puntos.ipynb) | ▪ [Digital Image Processing - Book by Rafael C. Gonzales and Richard Woods ](https://www.codecool.ir/extra/2020816204611411Digital.Image.Processing.4th.Edition.www.EBooksWorld.ir.pdf) |
 | 05 | Image Filtering | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/5%20Filtrado%20de%20Im%C3%A1genes.pdf) | [Laboratory 3: Edge Detection](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/notebooks/Laboratorio%203_%20Detecci%C3%B3n%20de%20Bordes.ipynb) <br> [Laboratory 4: Canny Edge Detector](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/notebooks/Laboratorio%204_%20Detector%20de%20Bordes%20Canny.ipynb) | 
 | 06 | Image Transforms | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/6.%20Transformadas%20de%20Im%C3%A1genes.pdf) |  [Laboratory 5: Image Transforms](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/notebooks/Laboratorio%205_%20Transformadas%20de%20la%20Imagen.ipynb) | 
 | 07 | Morphological Algorithms | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/7.%20Algoritmos%20Morfol%C3%B3gicos.pdf) |  [Laboratory 6: Morphological Algorithms](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/notebooks/Laboratorio%206_%20Operadores%20y%20Algoritmos%20Morfol%C3%B3gicos.ipynb) | 
@@ -76,9 +75,9 @@ Christian Conchari            |  Ana Martinez
 
 ## Sponsors
 
-Google AI | UCB | IMT
-:-------------------------:|:-------------------------: | :-------------------------:
-[![](./images/googleai.png)](https://ai.google/)  |  [![](./images/ucb.png)](https://www.ucb.edu.bo/) | [![](./images/imt.png)](https://www.imt.ucb.edu.bo/)
+Google AI | UCB | IMT | British Embassy
+:-------------------------:|:-------------------------: | :-------------------------: | :-------------------------:
+[![](./images/googleai.png)](https://ai.google/)  |  [![](./images/ucb.png)](https://www.ucb.edu.bo/) | [![](./images/imt.png)](https://www.imt.ucb.edu.bo/) | [![](./images/britishembassy.png)](https://www.imt.ucb.edu.bo/)
 
 ## Aknowledgements
 
