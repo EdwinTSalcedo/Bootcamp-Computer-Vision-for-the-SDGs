@@ -34,7 +34,8 @@ Christian Conchari            |  Ana Martinez
 - **Website:** [http://www.hackcities.com](http://www.hackcities.com)
 - **Brochure:** [![](./images/icon_pdf.png)](https://drive.google.com/file/d/1BBqEwblHBYX2ncz3A5UoaH-KUYrwK0iG/view)
 - **Main Teaching Language:** Spanish
-- **Recordings (Participants Only):** [Google Drive](https://drive.google.com/drive/folders/1IKDDlpe-mI9HijsmmHgwNL0BJjzk29Uk?usp=sharing)
+- **Lecture Recordings (Participants Only):** [Google Drive](https://drive.google.com/drive/folders/1IKDDlpe-mI9HijsmmHgwNL0BJjzk29Uk?usp=sharing)
+- **Office Hours Recordings (Participants Only):** [Google Drive](https://drive.google.com/drive/folders/1nVSL60GrZDUsNwPmY8PcU5Xfnki9Iod0?usp=sharing)
 - **LMS (Participants Only):** [Google Classroom](https://classroom.google.com/u/0/c/NDcyMDcxMzg3MTI2)
 - **Final Project Rubrics (Participants Only):** [![](./images/icon_pdf.png)](https://drive.google.com/file/d/1MOssTcuJUsvMTmA2K9AHy3fvxM4wbXTI/view?usp=sharing)
 
