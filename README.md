@@ -61,7 +61,7 @@ Christian Conchari            |  Ana Martinez
 | 16 | Object Detection | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/16.%20Detecci%C3%B3n%20de%20Objetos.pdf) | [Laboratory 12: Object Detection with TF Hub](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/notebooks/Laboratorio%2012_%20Detecci%C3%B3n%20de%20Objetos.ipynb) | ▪ [TensorFlow Tutorial: Object Detection](https://www.tensorflow.org/hub/tutorials/object_detection) | 
 | 17 | Semantic Segmentation | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/17.%20Segmentaci%C3%B3n%20Sem%C3%A1ntica.pdf) |  | ▪ [TensorFlow Tutorial: Image Segmentation](https://www.coursera.org/projects/deploy-models-tensorflow-serving-flask) | 
 | 18 | Instance Segmentation | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/18.%20Segmentaci%C3%B3n%20de%20Instancias.pdf) |  | 
-| 19 | Model Deployment | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/19.%20Despliegue%20de%20Modelos%20de%20Visi%C3%B3n%20Artificial.pdf) |  | ▪ [Deploy Models with TensorFlow Serving and Flask on Coursera](https://www.coursera.org/projects/deploy-models-tensorflow-serving-flask) <br> ▪ [Deploy Models Using TensorFlow Serving - Example](https://colab.research.google.com/github/EricEsajian/neural_network_models/blob/master/Deploy_Models_Using_TensorFlow_Serving.ipynb) |
+| 19 | Model Deployment | [![](./images/icon_pdf.png)](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/slides/19.%20Despliegue%20de%20Modelos%20de%20Visi%C3%B3n%20Artificial.pdf) | [Laboratory 13: Model Deployment with TensorFlow Lite](https://github.com/EdwinTSalcedo/Bootcamp-Computer-Vision-for-the-SDGs/blob/f2dd3b0eb4edb18d308a472bb5904c74b8eefe09/notebooks/Laboratorio%2012_%20Detecci%C3%B3n%20de%20Objetos.ipynb) | ▪ [Deploy Models with TensorFlow Serving and Flask on Coursera](https://www.coursera.org/projects/deploy-models-tensorflow-serving-flask) <br> ▪ [Deploy Models Using TensorFlow Serving - Example](https://colab.research.google.com/github/EricEsajian/neural_network_models/blob/master/Deploy_Models_Using_TensorFlow_Serving.ipynb) |
 
 ## Cohort
 
@@ -77,7 +77,7 @@ Christian Conchari            |  Ana Martinez
 
 Google AI | UCB | IMT | British Embassy
 :-------------------------:|:-------------------------: | :-------------------------: | :-------------------------:
-[![](./images/googleai.png)](https://ai.google/)  |  [![](./images/ucb.png)](https://www.ucb.edu.bo/) | [![](./images/imt.png)](https://www.imt.ucb.edu.bo/) | [![](./images/britishembassy.png)](https://www.imt.ucb.edu.bo/)
+[![](./images/googleai.png)](https://ai.google/)  |  [![](./images/ucb.png)](https://www.ucb.edu.bo/) | [![](./images/imt.png)](https://www.imt.ucb.edu.bo/) | [![](./images/britishembassy.png)](https://www.gov.uk/world/organisations/british-embassy-bolivia.es-419)
 
 ## Aknowledgements
 
