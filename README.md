@@ -71,6 +71,7 @@ Christian Conchari            |  Ana Martinez
 - **Finalists:** 40 participants from 6 cities in Bolivia
 <img src="./images/finalists.png" alt="alt text" width="400"/>
 
+
 ## Best Proposed Solution for the SDGs 🏆
 - **Team:** Linfocitos 
 
@@ -78,9 +79,7 @@ Christian Conchari            |  Ana Martinez
 
 - **Video:** https://youtu.be/nGt4fcp0AHc 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nGt4fcp0AHc/0.jpg)](https://www.youtube.com/watch?v=nGt4fcp0AHc)
-
-
+[![Project](https://img.youtube.com/vi/nGt4fcp0AHc/0.jpg)](https://www.youtube.com/watch?v=nGt4fcp0AHc)
 
 ## Sponsors
 
