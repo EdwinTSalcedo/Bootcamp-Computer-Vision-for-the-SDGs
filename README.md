@@ -72,11 +72,11 @@ Christian Conchari            |  Ana Martinez
 <img src="./images/finalists.png" alt="alt text" width="400"/>
 
 ## Best Proposed Solution for the SDGs 🏆
-- Team: Linfocitos 
+- **Team:** Linfocitos 
 
-- Team members: [Sharon Calcina](https://github.com/SHARON-CALCINA), [Patricia Cervantes](https://github.com/Micpcm), [Erick Ramos](https://github.com/erickramosQ), [Richard Vasquez](https://www.linkedin.com/in/richard-vasquez-lia-b2787911b). 
+- **Team members:** [Sharon Calcina](https://github.com/SHARON-CALCINA), [Patricia Cervantes](https://github.com/Micpcm), [Erick Ramos](https://github.com/erickramosQ), [Richard Vasquez](https://www.linkedin.com/in/richard-vasquez-lia-b2787911b). 
 
-- Video: https://youtu.be/nGt4fcp0AHc 
+- **Video:** https://youtu.be/nGt4fcp0AHc 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nGt4fcp0AHc/0.jpg)](https://www.youtube.com/watch?v=nGt4fcp0AHc)
 
